@@ -6,3 +6,5 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 
 NEXT_PUBLIC_STREAM_API_KEY=ndf6n8nksgmh
 STREAM_SECRET_KEY=ugze3jw79dkup5bvsztw6esep6yz2zchfb9mhrtywa8z9cxvjpexuptvbxk3q3yh
+
+NEXT_PUBLIC_BASE_URL=localhost:3000
