@@ -73,6 +73,19 @@
 }
 
 /* ==== clerk class override ===== */
+
+.lucide {
+  color: #fff;
+}
+
+.cl-internal-1nn89fl {
+  color: #fff;
+}
+
+.cl-formFieldInputShowPasswordIcon {
+  color: white;
+}
+
 .cl-providerIcon__github {
   filter: invert(1);
 }
